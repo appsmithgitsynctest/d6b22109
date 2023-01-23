@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Search3",
+      "isDefault": false
+    },
+    {
       "id": "Search2",
       "isDefault": false
     },
@@ -27,6 +31,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "viewMode": false,

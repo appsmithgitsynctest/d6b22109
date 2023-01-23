@@ -4164,7 +4164,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Selected2_getOrderinfo",
               "name": "getOrderinfo",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -4178,7 +4177,6 @@
           ],
           [
             {
-              "id": "Selected2_getCustomer",
               "name": "getCustomer",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

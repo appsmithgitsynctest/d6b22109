@@ -2396,7 +2396,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Dashboard2_delayedOrders",
               "name": "delayedOrders",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2404,7 +2403,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_monthlyDeliveryDates",
               "name": "monthlyDeliveryDates",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2412,7 +2410,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_monthlyExpectedDeliveryDates",
               "name": "monthlyExpectedDeliveryDates",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2420,7 +2417,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_orderValuePerMonth",
               "name": "orderValuePerMonth",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2428,7 +2424,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_ordersPerMonth",
               "name": "ordersPerMonth",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2436,7 +2431,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_paymentMethod",
               "name": "paymentMethod",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2444,7 +2438,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_popularProducts",
               "name": "popularProducts",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2452,7 +2445,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_refundMethod",
               "name": "refundMethod",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2460,7 +2452,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_refundValuePerMonth",
               "name": "refundValuePerMonth",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2468,7 +2459,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_refundedOrders",
               "name": "refundedOrders",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2476,7 +2466,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_refundsPerMonth",
               "name": "refundsPerMonth",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2484,7 +2473,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_totalCustomers",
               "name": "totalCustomers",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2492,7 +2480,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Dashboard2_totalOrders",
               "name": "totalOrders",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

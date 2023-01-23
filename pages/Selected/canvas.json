@@ -4164,7 +4164,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Search3_Utils.search",
               "name": "getOrderinfo",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
@@ -4177,7 +4179,9 @@
           ],
           [
             {
+              "id": "Search3_Utils.search",
               "name": "getCustomer",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [

@@ -1357,7 +1357,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Search3_Utils.search",
               "name": "getAllCustomers",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
@@ -1366,7 +1368,9 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Search3_Utils.search",
               "name": "getAllOrders",
+              "collectionId": "Search3_Utils",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
